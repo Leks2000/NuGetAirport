@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aeroport", "Aeroport\Aeroport.csproj", "{97456631-7783-427D-ACD1-4EF4BFBDE62A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewAirp", "NewAirp\NewAirp.csproj", "{FB51C61B-754C-4599-92CF-DD74C6A46B8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97456631-7783-427D-ACD1-4EF4BFBDE62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97456631-7783-427D-ACD1-4EF4BFBDE62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97456631-7783-427D-ACD1-4EF4BFBDE62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97456631-7783-427D-ACD1-4EF4BFBDE62A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB51C61B-754C-4599-92CF-DD74C6A46B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB51C61B-754C-4599-92CF-DD74C6A46B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB51C61B-754C-4599-92CF-DD74C6A46B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB51C61B-754C-4599-92CF-DD74C6A46B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D64871E-F9AE-404E-A1DC-672A37774DDC}
+	EndGlobalSection
+EndGlobal
